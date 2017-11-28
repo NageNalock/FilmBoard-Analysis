@@ -1,0 +1,2 @@
+文本数据的机器学习自动分类方法(上) : http://www.infoq.com/cn/articles/machine-learning-automatic-classification-of-text-data
+文本数据的机器学习自动分类方法(上) : http://www.infoq.com/cn/articles/machine-learning-automatic-classification-of-text-data-part2
